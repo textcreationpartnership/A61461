@@ -1,0 +1,375 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Right Honourable the Lord Mayor, and Aldermen of the City of London at St. Mary-Le-Bow, Jan. 30th, 1693/4 by William Stephens ...</title>
+            <author>Stephens, William, d. 1718.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 18 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61461</idno>
+            <idno type="STC">Wing S5462</idno>
+            <idno type="STC">ESTC R14148</idno>
+            <idno type="EEBO-CITATION">13589064</idno>
+            <idno type="OCLC">ocm 13589064</idno>
+            <idno type="VID">100622</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61461)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100622)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 851:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Right Honourable the Lord Mayor, and Aldermen of the City of London at St. Mary-Le-Bow, Jan. 30th, 1693/4 by William Stephens ...</title>
+                  <author>Stephens, William, d. 1718.</author>
+               </titleStmt>
+               <extent>[8], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Lawrence ... and Brad. Aylmer ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Half-title: Mr. Stephen's sermon preached before the Lord Mayor, at St. Mary-Le-Bow, Jan. 30, 1693/4.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  O.T. --  Lamentations V, 16 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="license">
+            <pb facs="tcp:100622:1"/>
+            <opener>
+               <signed>
+                  <hi>ASH<g ref="char:V">Ʋ</g>RST,</hi> MAYOR.</signed>
+               <dateline>
+                  <date>Jovis primo die <hi>Februarii</hi> 1693. Annoque Regni Regis &amp; Reginae <hi>Gulielmi</hi> &amp; <hi>Mariae, Angl.</hi> &amp;c. Quinto.</date>
+               </dateline>
+            </opener>
+            <p>THIS Court doth Deſire Mr. <hi>Stephens</hi> to Print his Sermon Preached before the Lord Mayor, Aldermen, and Citizens of this City, at the Pariſh Church of St. <hi>Mary-Le-Bow,</hi> on <hi>Tueſday</hi> the 30<hi rend="sup">th.</hi> of <hi>January</hi> laſt,</p>
+            <closer>
+               <signed>GOODFELLOW.</signed>
+            </closer>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:100622:1"/>
+            <p>A SERMON Preached before the Right Honourable the Lord Mayor, AND ALDERMEN OF THE <hi>City of London,</hi> AT St. <hi>Mary-Le-Bow,</hi> Jan 30<hi rend="sup">th.</hi> 1693/4</p>
+            <p>By <hi>WILLIAM STEPHENS,</hi> B. D. Rector of <hi>Sutton</hi> in <hi>Surrey.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>John Lawrence,</hi> at the <hi>Angel</hi> in the <hi>Poul<g ref="char:EOLunhyphen"/>trey;</hi> And <hi>Brab. Aylmer,</hi> at the <hi>Three Pidgeons</hi> in <hi>Cornhill.</hi> 1694</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:100622:2"/>
+            <pb facs="tcp:100622:2"/>
+            <p>Mr. <hi>STEPHEN</hi>'s SERMON Preached before the Lord Mayor, AT St. <hi>Mary-Le-Bow,</hi> Jan. 30. 1693/4.</p>
+            <pb facs="tcp:100622:3"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:100622:3"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100622:4"/>
+            <pb facs="tcp:100622:4"/>
+            <head>TO THE RIGHT HONOURABLE Sir <hi>WILLIAM ASH<g ref="char:V">Ʋ</g>RST,</hi> Lord Mayor OF THE <hi>City of London:</hi> AND THE Worſhipful the Court of ALDERMEN.</head>
+            <opener>
+               <salute>My LORD,</salute>
+            </opener>
+            <p>ALthough the Sins of this Nation, which call for frequent Faſting, and ſincere Humiliation, might give us but a very Me<g ref="char:EOLhyphen"/>lancholy Proſpect of Affairs, yet when we call to mind the many Deliverances which God hath heretofore, and of late wrought for us, it will point out a Door of Hope to us, and may ſerve for a promiſing preſage that he will go on to do
+<pb facs="tcp:100622:5"/> us good, will perfect our Deliverance, and ſecure our Righteous Eſtabliſhment.</p>
+            <p>But St. <hi>Auſtin</hi> teaches us, That he who made us without any help of ours, will not ſave us without our own Concurrence; and this is true as well in reſpect to our Happineſs in this Life as in another. Men who are well-affect<g ref="char:EOLhyphen"/>ed to the common Intereſt of their Countrey muſt be Zealouſly Active to promote it, watch the ſeaſonable Appearances of God in their be<g ref="char:EOLhyphen"/>half, and cheerfully co-operate with thoſe Means which his Providence has recommended to 'em for their common Preſervation</p>
+            <p>Your Lordſhip is one of thoſe who cannot ſa<g ref="char:EOLhyphen"/>tisfie your ſelf with an <g ref="char:V">Ʋ</g>nactive Vertue. You ſludy the Welfare of your Countrey Diligently, and purſue it Affectionately. And it ought to be no little matter of Joy to us all to ſee the Chief City of the Kingdom acting by ſo Noble a Prin<g ref="char:EOLhyphen"/>ciple in the Choice of Magiſtrates to Rule over them, as to pitch upon one who could never ſtoop
+<pb facs="tcp:100622:5"/> ſo low as to ſerve a narrow Intereſt, or a baſe, or private End; who prays for the Peace of <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> and without regard to any Party wiſhes all may Proſper that love it; may this good Example of the Metropolis have a happy Influence upon all other Corporations, and en<g ref="char:EOLhyphen"/>gage them to an Imitation of ſuch a Choice.</p>
+            <p>If the Soveraign Prince be taught from all the Characters by which his Super-eminent Of<g ref="char:EOLhyphen"/>fice is deſcrib'd in God's Word, that he can Eſpouſe no Intereſt ſeparate from that of his People (as is ſhewn in the enſuing Sermon, which was at firſt Preach'd, and is now Pub<g ref="char:EOLhyphen"/>liſh'd by Your Lordſhip's Order) ſurely no Man is qualify'd for any Inferior Magiſtracy, who can be ſo far miſguided as to act the Buſineſs of a Party, or will ſuffer any private Intereſt to miſlead his Affection from the common Good.</p>
+            <p>
+               <hi>Plato</hi> had once a Project to preſerve the Community by deſtroying Property; he ſup<g ref="char:EOLhyphen"/>pos'd that a common Fund ſet up for the whole
+<pb facs="tcp:100622:6"/> Body Politick would neceſſarily engage a pub<g ref="char:EOLhyphen"/>lick Spirit in every Individual; but a greater Law-giver than he has taught us, that Pro<g ref="char:EOLhyphen"/>perty and publick Weal are to be preſerv'd by loving our Neighbour as our ſelf. And when this Spirit prevails among the Rulers of a peo<g ref="char:EOLhyphen"/>ple, what may not be hoped for in Favour of ſuch a Nation?</p>
+            <p>That Almighty God may ſtill continue a Succeſſion of ſuch Magiſtrates in the Chair which Your Lordſhip ſo Honourably fills, is the Hearty Prayer of</p>
+            <closer>
+               <salute>My LORD,</salute>
+               <signed>Your Lordſhips moſt Obliged and Humble Servant, WILLIAM STEPHENS</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:100622:6"/>
+            <epigraph>
+               <q>
+                  <bibl>LAM. V. 16.</bibl>
+                  <p>The Crown is fallen from our Head: wo unto us, that we have ſinned.</p>
+               </q>
+            </epigraph>
+            <div type="introduction">
+               <p>HOW the Death of good King <hi>Joſiah</hi> was lamented, is thus Recorded in the Chro<g ref="char:EOLhyphen"/>nicles. <hi>And</hi> Jeremiah <hi>lamented for</hi> Joſiah,<note place="margin">2 Chron. 35.25.</note> 
+                  <hi>and all the Singing Men and the Singing Women ſpake of</hi> Joſiah <hi>in their Lamentations to this day; and made them an Ordinance in</hi> Iſrael, <hi>and behold they are written in the Lamentations.</hi> It was no ſmall loſs to <hi>Judah,</hi> that ſuch a Prince fell by the Sword, whoſe Heart was ſo tenderly affected towards his Country: <hi>Who remov'd all the Abominations out of the Land, making a Covenant before the Lord,</hi>
+                  <note place="margin">2 Chron. 34.27.</note> 
+                  <hi>and cauſing all</hi> Jeruſalem <hi>and</hi> Benjamen <hi>to ſtand to it.</hi> He had a right Senſe of that true Politick Maxim, which <hi>So<g ref="char:EOLhyphen"/>lomon</hi> his Predeceſſor leſt behind him, <hi>viz.</hi>
+                  <note place="margin">Prov. 14.34.</note> 
+                  <hi>Righteouſneſs exalteth a Nation, but Sin is a reproach to any People.</hi> This good Diſpoſition towards his Subjects, was re<g ref="char:EOLhyphen"/>warded with that gracious Anſwer God ſent him from the Mouth of <hi>Huldah</hi> the Propheteſs, when he en<g ref="char:EOLhyphen"/>quir'd of her what ſhould become of his Kingdom. The Effect of which was, That he ſhould honourably end his days, and not ſee the Captivity of his People. <hi>And as for the King of</hi> Judah,<note place="margin">2 Chron. 34.26.</note> 
+                  <hi>who ſent you to enquire of the Lord; ſo ſhall ye ſay unto him: Becauſe thy Heart was tender, and thou didst humble thy ſelf before God
+<pb n="2" facs="tcp:100622:7"/> when thou heardſt his Words againſt this place, and a<g ref="char:EOLhyphen"/>gainſt the Inhabitants thereof, I have even heard thee al<g ref="char:EOLhyphen"/>ſo, ſaith the Lord, Behold, I will gather thee to thy Grave in peace, neither ſhall thy Eyes ſee all the evil I will bring upon this place, and upon the Inhabitants thereof.</hi>
+               </p>
+               <p>If it be ask'd, How was this Prophecy fulfill'd? when <hi>Joſiah</hi> died of a Wound received in Battle againſt <hi>Necho</hi> King of <hi>Egypt.</hi> Let the Enquirer put on thoſe Bowels of Compaſſion to his Country, which <hi>Joſiah</hi> took with him then to the Battle of <hi>Megiddo,</hi>
+                  <note place="margin">2 Chron. 25.22.</note> that he might ſtop the Paſſage of <hi>Pharo Necho,</hi> and prevent the ſwarming of the <hi>Egyptian</hi> Locuſts over <hi>Judah;</hi> and he will think his honourable Death in Defence of his People to be the laſt, and greateſt diſtinguiſhing Mark, which God could in this World beſtow upon ſo good a Prince.</p>
+               <p>St. <hi>Paul</hi> has indeed told us,<note place="margin">1 Cor. 13.3.</note> that a Man may give his Body to be burnt, and not deſerve the Name of a Martyr, becauſe he may yet want Charity. And we ſee, 'tis poſſible for a Sovereign Prince to hazard his Crown, not out of Charity to relieve his Country, but from a Deſire to oppreſs it; and ſo may die the Mar<g ref="char:EOLhyphen"/>tyr, or live the Confeſſor of his own Folly. When good <hi>Joſiah</hi> put his Life into his hand, to keep out that <hi>Egyptian</hi> Slavery which an ill Prince would willingly introduce.</p>
+               <p>And thus I have ſet forth the occaſion of <hi>Judah</hi>'s Tears, and <hi>Jeremy</hi>'s Lamentation, <hi>viz.</hi> The Loſs of a good King, and what not long after followed, the Cap<g ref="char:EOLhyphen"/>tivity of the People. To this the Prophet relates in theſe Words of the Text, <hi>The Crown is fallen from our Head.</hi> But whilſt the Reflection upon his Countrey's Ruine fills him with a juſt Grief, the Conſideration of
+<pb n="3" facs="tcp:100622:7"/> the Cauſe of it, the Sin of <hi>Judah,</hi> begets in him a juſt Indignation: So that whilſt he bewails the Wound, he juſtifies the Hand that ſtrikes, and laments the Sins of the People with deeper Groans than their Puniſhment. <hi>Wo unto us that we have ſinned.</hi>
+               </p>
+               <p>Theſe Words, together with the occaſion upon which they were ſpoke, ſuggeſt to us theſe two Con<g ref="char:EOLhyphen"/>ſiderations.
+<list>
+                     <item>I. The Loſs of a Good King gives juſt Cauſe of La<g ref="char:EOLhyphen"/>mentation to a People. <hi>The Crown is fallen from our Head.</hi>
+                     </item>
+                     <item>II. In the Day of our Lamentation we ſhould lay to Heart thoſe Sins which brought this Judgment upon us, in order to prevent the like for the future. <hi>Wo un<g ref="char:EOLhyphen"/>to us that we have ſinned.</hi>
+                     </item>
+                  </list>
+               </p>
+            </div>
+            <div type="section">
+               <p>The firſt of theſe Propoſitions appropriates our La<g ref="char:EOLhyphen"/>mentation to the Loſs of a good King, ſuch as was <hi>Joſiah;</hi> of whom the Prophet ſo pathetically ſpeaks, <hi>The breath of our noſtrils, the Anoynted of the Lord,</hi>
+                  <note place="margin">Lam. 4.20</note> 
+                  <hi>was taken in their Pits; of whom we ſaid, under his ſhadow we ſhall live among the Heathen.</hi> Or as <hi>Gro<g ref="char:EOLhyphen"/>tius</hi> renders the laſt words, <hi>In ſpite of the Heathen.</hi>
+               </p>
+               <p>The Freſh Air through the Noſtrils makes its way to the Lungs, and with them fans the Heart, by its nitrous Spirit advancing, and by its Coolneſs adjuſting the Circulation of the Blood; and thereby imparts new Vigour to each Member of the Body. Thus good <hi>Joſiah,</hi>
+                  <note place="margin">2 Chron 34.3<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</note> by <hi>reading the Book of the Law to the Peo<g ref="char:EOLhyphen"/>ple, and renewing the Covenant with the Lord,</hi> reſtrain<g ref="char:EOLhyphen"/>ed thoſe Feuds and Quarrels, which the variety of
+<pb n="4" facs="tcp:100622:8"/> their Idolatries produc'd, and united the different Sects into the Worſhip of one God. By this he gave new Strength to <hi>Judah</hi> and <hi>Benjamin</hi> for their Support a<g ref="char:EOLhyphen"/>gainſt their Enemies. What Streams of Tear did the Loſs of ſuch a Prince call for?</p>
+               <p>But had they liv'd under a King, who by ans open Example and Encouragement of Debauchery, ſhould have drawn the People from their Covenant with the Lord, and by ſecret Favours beſtow'd on Idolaters, ſhould have tempted <hi>Judah</hi> from worſhiping the God of <hi>Ja<g ref="char:EOLhyphen"/>cob.</hi> If he ſhould have prepar'd the way for <hi>Pharo Necho,</hi> by crumbling his People into Factions; and by turns wheting the Anger of <hi>Judah</hi> againſt <hi>Benjamin,</hi> and <hi>Benjamin</hi> againſt <hi>Judah;</hi> it would be hard to perſwade Men to call ſuch a King the <hi>Breath of their Noſtrils.</hi> And when they were in ſo much Danger of Ruine by his Life, they would be apt not to be very paſſionately concern'd for his Death.</p>
+               <p>From what has been ſaid, the Reaſon of the firſt Propoſition will appear, <hi>viz.</hi> Why the loſs of a good King gives ſuch cauſe of Lamentation. 'Tis becauſe he has no Intereſt ſeparate from that of his People. This is plainly implied in the Words of the Text, <hi>The Crown is fallen from our Head.</hi> That is, as the People have no Head but their King, ſo the King has no Body but his People; and that there can be no more ſeparate Intereſt of a Sovereign from his People, than of the Head from the Body. And that this is the true No<g ref="char:EOLhyphen"/>tion of that relation which is between Prince and Peo<g ref="char:EOLhyphen"/>ple, appears from all thoſe Characters, by which Su<g ref="char:EOLhyphen"/>preme Magiſtrates are deſcrib'd to us in the Book of Go; which are theſe Five, <hi>viz.</hi>
+                  <pb n="5" facs="tcp:100622:8"/>
+                  <list>
+                     <item>Fathers,</item>
+                     <item>Captains,</item>
+                     <item>Judges,</item>
+                     <item>Shepherds,</item>
+                     <item>Gods.</item>
+                  </list>
+               </p>
+               <p n="1">1. Fathers; ſo God promiſeth to a good People ſuitable Governours. <hi>Kings ſhall be thy Nurſing fathers,</hi>
+                  <note place="margin">Iſa. 49.23.</note> 
+                  <hi>and Queens thy Nurſing-mothers.</hi> Now what intereſt can a Father have ſeparate from that of his Family? Or can a Mother divide her Aſſection from her Chil<g ref="char:EOLhyphen"/>dren; the pretended Mother who appear'd before <hi>So<g ref="char:EOLhyphen"/>lomon</hi> would have divided a Living Child that ſhe might have had part of it to her ſelf,<note place="margin">1 Kings 3.26.</note> while the true Mother could not ſeparate her Bowels of Compaſſion from the Fruit of her Womb. This Title of Father expreſſes juſtly the nature of that Love which is ow<g ref="char:EOLhyphen"/>ing by the Prince to his People. It has indeed been made uſe of by ſome to a very different purpoſe; to prove that Regal Authority is founded in Paternal, al<g ref="char:EOLhyphen"/>though whoever conſiders the Relation between Father and Son will ſee how abſurd this Notion is. For, (1.) Nature gives to all Parents equal power over their Families, ſo as to exclude the Unkles power over his Nephews Family; and the Grandfathers, nay Fa<g ref="char:EOLhyphen"/>thers, over the reſpective Families of Son, and Grand<g ref="char:EOLhyphen"/>ſon. (2.) The Mother has to Filial Obedience equal Right with the Father. (3.) Execution of Vin<g ref="char:EOLhyphen"/>dictive Power, whereby a Father ſhall paſs Sentence of Death upon his Son ſeems unnatural. Nor do we find it came into the Thoughts of <hi>Adam</hi> to avenge the Murther of <hi>Abel</hi> by adjudging <hi>Cain</hi> to death; nor can I perceive that the imaginary Patriarchal Au<g ref="char:EOLhyphen"/>thority has any Foundation in Nature, ſo as to render the younger Brother upon the Father's death ſubject to the Elder. For, (1.) Brotherhood beſpeaks equali<g ref="char:EOLhyphen"/>ty,
+<pb n="6" facs="tcp:100622:9"/> as appears by what God ſaith to the Elder Brother of all Mankind, when he had conceiv'd Wrath againſt his younger.<note place="margin">Gen. 4.6,7.</note> 
+                  <hi>And the Lord ſaid unto</hi> Cain, <hi>why art thou wrath? And why is thy countenance fallen? If thou doſt well ſhalt thou not be accepted? If thou doſt not well ſin lyeth at the door;</hi> (that is, the puniſhment of thy ſin draws near) the following words of the Verſe want only a point of Interrogation to make 'em under<g ref="char:EOLhyphen"/>ſtood; for inſtead of, <hi>
+                     <g ref="char:V">Ʋ</g>nto thee ſhall be his deſire, and thou ſhalt rule over him.</hi> The Learned <hi>P. Fagius</hi> thus renders it; <hi>Num Abelis deſiderium ad te erit? num tu eris ejus dominus? Shall his deſire be to thee? Shalt thou rule over him?</hi> Such an Interrogation is a ſtrong denial of any Authority the Elder Brother can by na<g ref="char:EOLhyphen"/>ture claim over the Younger.</p>
+               <p>But <hi>2dly,</hi> How can we conceive that Nature gives the Nephew Authority over his Unkle, and Great Un<g ref="char:EOLhyphen"/>kle? Which the Notion of Patriarchal Power does ne<g ref="char:EOLhyphen"/>ceſſarily infer.</p>
+               <p>And <hi>3dly,</hi> To found Kingly Power in Patriarchal Primogeniture, ſeems as Impolitick as 'tis Unnatural; becauſe it ſhakes the Thrones of all Kings, there being no Throne at this time fill'd with the true Patriarch Lineally deſcended from the Eldeſt Son of <hi>Noah:</hi> Or at leaſt who is able to derive and prove ſuch a Pedi<g ref="char:EOLhyphen"/>gree.</p>
+               <p>But to return from this digreſſion. We are ſure that we can juſtly ſay of a good King, He is a Father of his Countrey. 'Tis Fatherly Care he expreſſes in the Adminiſtration of his High Office; he provides for the Education of his People in good Living; he reſtrains
+<pb n="7" facs="tcp:100622:9"/> the publiſhing of Bad Principles; he checks ill Tem<g ref="char:EOLhyphen"/>pers, and chaſtiſeth thoſe wicked Servants who by their ill Examples would endanger the corrupting of his Family; he bears an equal Affection to all his Du<g ref="char:EOLhyphen"/>tiful Subjects, not ſuffering himſelf through any unac<g ref="char:EOLhyphen"/>countable fondneſs to diſtinguiſh ſome of his Children from others, ſo long as all join in an equal reſpect to him. But if there be any ſuch in his Family who have the impudence to own another Father, either Spiritual or Civil, 'tis a juſt provocation for him to diſown them; and look upon them as the Children of a ſtrange Woman, a <hi>Babyloniſh</hi> Breed, and Sons of <hi>Be<g ref="char:EOLhyphen"/>lial.</hi>
+               </p>
+               <p>What Lamentation is too much for the loſs of ſuch a Father of his Countrey? Who would not ſay with <hi>Jeremiah? Oh that my Head were Waters,</hi>
+                  <note place="margin">Jer. 9.1.</note> 
+                  <hi>and mine Eyes a Fountain of Tears!</hi> Or if a People profeſſing God's Holy Truths ſhould loſe ſuch a Nurſing-mother, ſhould we not behold the ſorrowful Children weeping for <hi>Rachel,</hi> and refuſing Comfort becauſe ſhe is not?</p>
+               <p n="2">2. Another Title the Holy Spirit gives to the High<g ref="char:EOLhyphen"/>er Powers is that of Captains; in this ſtyle the Pro<g ref="char:EOLhyphen"/>phet <hi>Iſaiah</hi> delivers a Meſſage from God to good <hi>He<g ref="char:EOLhyphen"/>zekiah, Turn again and tell</hi> Hezekiah <hi>the Captain of my People, thus ſaith the Lord,</hi>
+                  <note place="margin">2 King; 20.5.</note> &amp;c. And is it not the Intereſt as well as Duty of the General to preſerve the Hoſt under his Command? With relation to this Con<g ref="char:EOLhyphen"/>duct it was, that when the Lord appointed <hi>Samuel</hi> to anoint <hi>Saul</hi> King, he deſcribes the Kingly Office by that of a General. <hi>To morrow about this time I will ſend thee a Man out of the Land of</hi> Benjamin,<note place="margin">2 Sam. 9.16.</note> 
+                  <hi>and thou ſhalt anoint him to be Captain over my People</hi> Iſrael,
+<pb n="8" facs="tcp:100622:10"/> 
+                  <hi>that he may ſave my People out of the Hand of the</hi> Phi<g ref="char:EOLhyphen"/>liſtines.</p>
+               <p>The General of God's Hoſt could not be ſaſe but by preſerving the Armies of <hi>Iſrael.</hi> The good Captain by ſtrict Diſcipline retains his Souldiers in their Duty, and makes them pay an exact Obedience to his Or<g ref="char:EOLhyphen"/>ders. His Vigilance ſecures them in their Marches, his Judgment and Experience directs them in their En<g ref="char:EOLhyphen"/>campments, his Providence and Foreſight prevents Want and Surprize, and his Juſtice deters them from Treachery or Mutiny; on the other ſide, the good General never fails to preſer thoſe whom he has ſound to be Meritorious, and does at leaſt make it equally his Care to Reward the good Soldier, as to puniſh him who deſerves ill. There is a Steddineſs as well as a Pre<g ref="char:EOLhyphen"/>ſence of Mind which does always accompany him; and gives that Aſſurance to his Army which is the Pledge of Victory. And is not this the Character of an Ex<g ref="char:EOLhyphen"/>cellent Prince? One who is both the Head and Heart of his People.</p>
+               <p n="3">3. There was a time when the Supream Magi<g ref="char:EOLhyphen"/>ſtrates in <hi>Iſrael</hi> were call'd Judges, as appears by their Hiſtory compiled in a Book bearing that Name: The true Buſineſs of thoſe who preſide in Courts of Judica<g ref="char:EOLhyphen"/>ture will appear from the Charge <hi>Moſes</hi> gave to the Judges of <hi>Iſrael,</hi>
+                  <note place="margin">Deut 1.16.</note> 
+                  <hi>Hear the cauſes betwixt your Bre<g ref="char:EOLhyphen"/>thren, and judge righteouſly between every Man and his Brother, and the ſtranger that is with him. Ye ſhall not reſpect Perſons in Judgment; but ye ſhall hear the Small as well as the Great; you ſhall not be afraid of the Face of Man, for the Judgment is God's.</hi> 'Twas the good of the People which was given in Charge to the
+<pb n="9" facs="tcp:100622:10"/> Judges, who were ſet as Guardian Angels for deſence of <hi>Iſrael</hi> againſt the Sons of Violence. They are there<g ref="char:EOLhyphen"/>fore forbid to caſt an Eye upon their own particular Intereſt; but an impartial Adminiſtration of Juſtice without Prejudice or Paſſion; hope or fear is recom<g ref="char:EOLhyphen"/>mended to 'em, thereby to put an end to all Contro<g ref="char:EOLhyphen"/>verſies, to allay all Heats, Feuds, and Paſſions, and to take from every Man all pretence of a Right to re<g ref="char:EOLhyphen"/>venge himſelf; for as Revenge caſts Judgment out of Doors, ſo Judgment makes Revenge needleſs; it puts a ſtop to the firſt Springs of all Deſires, ſhewing how vain a thing it will be for an <hi>Ahab</hi> to covet <hi>Naboth</hi>'s Vineyard. 'Tis the right Adminiſtration of Juſtice which is the Bond of Humane Society; it ſecures to every Individual his Life, and his Property, and there<g ref="char:EOLhyphen"/>by Induſtry is encouraged, and the Wealth and Strength of a Nation advanc'd.</p>
+               <p>Such a due courſe of Juſtice was maintain'd during the Reign of good <hi>Joſiah;</hi> and as that rendred his Peo<g ref="char:EOLhyphen"/>ple happy, ſo it made his Memory precious, and his Loſs ſo greatly lamented; whereas the contrary practice of his Son <hi>Jehoiakim</hi> brought Ruin upon his own Houſe, Miſery upon his Kingdom, and Infamy upon his Name, inſomuch that God himſelf forbad any Lamentation to be made for his Death, or decent Burial to be beſtow'd on his Body. The Burthen of this unhappy Prince is de<g ref="char:EOLhyphen"/>nounc'd by <hi>Jeremiah</hi> thus;<note place="margin">Jer. 22.13, <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>Wo to him that buildeth his Houſe by <g ref="char:V">Ʋ</g>nrighteouſneſs, and his Chambers by Wrong.</hi> It ſeems this Prince was pleas'd with an appearance of Magnificence, and Glory, though at the rate of op<g ref="char:EOLhyphen"/>preſſing, and ſpoiling his Subjects; and to this the Prophet alludes in the following Verſes, in which he proceeds with the <hi>Wo to him that ſaith, I will build me
+<pb n="10" facs="tcp:100622:11"/> a wide Houſe, and large Chambers, and cutteth him out Windows, and it is ceiled with Cedar, and painted with Vermilion. Shalt thou Reign becauſe thou <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> thy ſelf in Cedar? Did not thy Father Eat, and Drink, and do Judgment, and Juſtice, and then it was well with him. Was not this to know me? ſaith the Lord: But thy Eyes, and thy Heart are not but for thy Covetouſneſs, and to ſhed Innocent Blood: And for Oppreſſion, and for Violence to do it. Therefore thus ſaith the Lord con<g ref="char:EOLhyphen"/>cerning</hi> Jehoiakim <hi>the Son of</hi> Joſiah <hi>King of</hi> Judah, <hi>they ſhall not lament for him, ſaying, Ah my Brother, or Ah Siſter. They ſhall not lament for him, ſaying, Ah Lord, or Ah his Glory. He ſhall be buried with the Burial of an Aſs, and caſt forth beyond the Gates of</hi> Jeruſalem. This wo makes a full deſcription of the unhappy ſtate of a Kingdom when the Fountain of Juſtice is corrup<g ref="char:EOLhyphen"/>ted, when Courts of Judicature become Snares to the People, when Mens Cauſes are not Tried, but their Perſons, when no Man ſhall have Right done him, unleſs he himſelf is content to be an Inſtrument in op<g ref="char:EOLhyphen"/>preſſing his Countrey, or in wronging his Neighbour. When the Laws are interpreted to ſerve turns. When thoſe Laws which were intended for a ſteddy, and equal Rule to all are extended or ſtreighten'd as the oc<g ref="char:EOLhyphen"/>caſion requires; as an Innocent Man is to ſuffer, or a profligate Offender to eſcape. When Murthers are committed in Forms of Juſtice. When a Judge of this kind, when ſuch a Prince falls, the People are forbid to lament, (though one might think ſuch a prohibi<g ref="char:EOLhyphen"/>tion needleſs) and the Prophet tells 'em expreſly he is to be Buried with the Burial of an Aſs; Infamy is to follow, and to ſtick upon his Memory.</p>
+               <pb n="11" facs="tcp:100622:11"/>
+               <p n="4">4. Sometimes the Soveraign Prince in Sacred Style is call'd a Shepherd.<note place="margin">Iſa. 44.28.</note> God <hi>ſaith of</hi> Cyrus <hi>he is my Shepherd;</hi> and in <hi>Ezekiel</hi> the words Shepherd and Prince ſignifie the ſame thing <hi>I will ſet up one Shep<g ref="char:EOLhyphen"/>herd over them, and he ſhall feed them,</hi>
+                  <note place="margin">Ezek. 34.23,24.</note> 
+                  <hi>even my Ser<g ref="char:EOLhyphen"/>vant</hi> David. <hi>He ſhall be their Shepherd, and I the Lord will be their God, and my Servant</hi> David <hi>a Prince among them.</hi> And as it is the Buſineſs and Intereſt of the Shepherd, ſo it is the Buſineſs and Intereſt of the Prince to cheriſh, preſerve, and increaſe the Flock. The watchful Eye, the tender Heart, and the gentle Hand become the one no leſs than the other. And when God found out a Man atter his own Heart to preſide o<g ref="char:EOLhyphen"/>ver his peculiar People: <hi>He choſe</hi> David <hi>his Servant,</hi>
+                  <note place="margin">Pſal. 78.70,71.</note> 
+                  <hi>and took him from the Sheepfolds following the Ewes great with young he brought him to feed</hi> Jacob <hi>his people, and</hi> Iſrael <hi>his Inheritance.</hi> That watchful Care which he exercis'd in the Shepherd's Tent prepar'd him for the Buſineſs of the Throne. That concern which he ſhew'd for a Lamb taken from him improv'd it ſelf in<g ref="char:EOLhyphen"/>to a Zeal to reſcue <hi>Iſrael</hi> from the <hi>Philiſtin</hi> Army. The Courage which he ſhew'd againſt the Lion and the Bear, who were about devouring his Flock, recommend<g ref="char:EOLhyphen"/>ed him to be <hi>Saul</hi>'s Champion againſt <hi>Goliah;</hi> and the Bleſſing of God upon his firſt Enterprize gave him hopes of ſucceſs in the ſecond.<note place="margin">1 Sam. 17.36.</note> 
+                  <hi>Thy Servant ſlew both the Lion and the Bear, and this uncircumcis'd</hi> Philiſtine <hi>ſhall be as one of them.</hi> Nor did he forget the Crook, when he was poſſeſs'd of the Scepter; but had the ſame regard to his People, which before he ſhew'd to<g ref="char:EOLhyphen"/>wards his Flock, as appears by that Addreſs which in a Shepherds Style he made to God when he ſaw the Angel ſmiting <hi>Iſrael</hi> with Peſtilence.<note place="margin">2 Sam. 24.17.</note> 
+                  <hi>Lo I have ſinned,
+<pb n="12" facs="tcp:100622:12"/> and I have done wickedly; but theſe Sheep, what have they done? Let thy hand, I pray thee, be againſt me, and againſt my Fathers Houſe.</hi> If a People be bereft of ſuch a Shepherd, ſuch a Prince as this, we may con<g ref="char:EOLhyphen"/>clude with <hi>Zachary,</hi> they had reaſon <hi>to be troubled, becauſe they had no Shepherd.</hi>
+                  <note place="margin">Zach 102.</note>
+               </p>
+               <p n="5">5. The laſt, and greateſt Title which the Holy Scriptures give to Sovereign Princes is that of Gods. <hi>Thou ſhalt not revile the Gods,</hi>
+                  <note place="margin">Exod. 22.28.</note> 
+                  <hi>nor curſe the Ruler of thy People.</hi> So high, ſo ſuperlative a Title may perhaps have given occaſion to Flatterers, and ill Men to ſug<g ref="char:EOLhyphen"/>geſt to Princes ſuch Notions of their Glory as might be diſtinct, and ſeparate from their Peoples good. But I cannot find that the Glory of God himſelf, as So<g ref="char:EOLhyphen"/>vereign of all, is ſeperate from the good of Mankind, either in his Creation, Preſervation, Redemption, Sanctification, or Salvation, all which are the Works of his Sovereign Power, and ſaid to be wrought for his Glory.</p>
+               <p>The two firſt of theſe may be conſidered together, becauſe the preſervation of Beings is but the continu<g ref="char:EOLhyphen"/>ance of the power exerted in their Creation. 'Tis on<g ref="char:EOLhyphen"/>ly the permanency of that Word or Will by which all things were made. And if <hi>The Heavens declare the Glory of God,</hi>
+                  <note place="margin">Pſal. 19.1,2.</note> 
+                  <hi>and the Firmament ſhews his Handy-work, if one day tells another, and one night certifies another.</hi> Do not all theſe Works of God as clearly demonſtrate to us our own Advantage, as much as their Maker's Glory? Was not the Earth, Water, and Air, com<g ref="char:EOLhyphen"/>manded to bring forth Plants, Fiſh, Fowl and Beaſts, for the uſe of Man, as for the Glory of God!</p>
+               <pb n="13" facs="tcp:100622:12"/>
+               <p>Or did <hi>God make known the Riches of his Glory on the Veſſels of Mercy,</hi>
+                  <note place="margin">Rom. 9.23 24.</note> 
+                  <hi>which he had afore prepar'd unto Glo<g ref="char:EOLhyphen"/>ry?</hi> viz. Accompliſhing the Redemption of Loſt Man by the Mediation of Chriſt Jeſus,<note place="margin">Heb. 1.3.</note> 
+                  <hi>Who was the brightneſs of his Glory, and expreſs Image of his Perſon.</hi> And did he not in this glorifie himſelf by the greateſt Gift the Heavenly Father could beſtow upon his Children? Or the Son of God purchaſe for his Brethren?</p>
+               <p>And how is God glorified by our Sanctification? but as he enriches our Hearts with the Gifts of his Holy Spirit, and Treaſures of his Divine Graces; the only true Comforts and Support we are capable of in this Life, and the Earneſt of that immarceſſible Crown of Glory, <hi>i.e.</hi> The full Completion of Happineſs we ex<g ref="char:EOLhyphen"/>pect hereafter. In all theſe reſpects St. <hi>Paul</hi> joins God's Glory and our Good together.<note place="margin">Eph. 3.14. <hi>&amp;c.</hi>
+                  </note> 
+                  <hi>For this cauſe I bow my knees unto the Father of our Lord Jeſus Chriſt, that he would grant you, according to the riches of his Glory, to be ſtrengthened with might by his Spirit, that ye may be able to comprehend with all Saints, what is the length, and breadth, and depth, and height, and to know the love of Chriſt, which paſſeth knowledge.</hi>
+               </p>
+               <p>In Sum. God who is ſelf-ſubſiſting Perfection, who in the language of Nature is ſtyl'd <hi>Optimus Maximus,</hi> the beſt and greateſt of Beings, cannot ſerve himſelf any way by us, ſo as to add any thing to his Power, Wiſdom, Goodneſs, Juſtice, Veracity, Immutability or Eternity; but on the contrary, God ſerves us by him<g ref="char:EOLhyphen"/>ſelf,<note place="margin">Luk. 22.27</note> 
+                  <hi>(ſo Chriſt was amongst us as he that ſerveth)</hi> and we are every moment ſenſible of the Benefits we receive from the Power, Wiſdom, Goodneſs, and all the Attri<g ref="char:EOLhyphen"/>butes of God. Nay, every Precept of his Law con<g ref="char:EOLhyphen"/>tains
+<pb n="14" facs="tcp:100622:13"/> a Favour beſtow'd on us, as well as a Duty en<g ref="char:EOLhyphen"/>joyn'd.</p>
+               <p>And in this Kings are as Gods to their People; their Power is imploy'd for their Protection, their Wiſdom for their Direction, their Goodneſs for their Support, and their Veracity is a full Security to them for rely<g ref="char:EOLhyphen"/>ing upon their Promiſes. 'Tis true, the Juſtice of God executes Vengeance upon Evil-doers, and hereby <hi>he preſerves the Souls of his Saints,</hi>
+                  <note place="margin">Pſal. 97.10.</note> 
+                  <hi>and delivers them out of the hand of the wicked.</hi> Without this Juſtice, how could his Kingdom ſtand in this World? And had he not ſo ordered it,<note place="margin">Pſal. 55.23.</note> that <hi>the bloody and deceitful man ſhould not live out half his days;</hi> and that the <hi>lapſed Angels ſhould be reſerv'd in everlaſting Chains;</hi>
+                  <note place="margin">Jude 6.</note> how could he be called the Preſerver of Men?</p>
+               <p>In like manner 'tis the Glory of a <hi>King by Judgment to eſtabliſh a Land;</hi>
+                  <note place="margin">Prov. 29.4.</note> by giving the Law its due courſe, upon all the Enemies to his Government, all Oppreſſors of his Subjects: And if a mighty Hunter after Blood ſhall ariſe, as <hi>Nimrod</hi> was of old, who ſhall look upon the Proſperity of his Neighbours to be a <hi>Diminution to his Glory:</hi> In ſuch a caſe, 'twill be the true Glory of God's Vicegerents to execute St. <hi>Paul</hi>'s <hi>Anathema</hi> againſt ſuch an Enemy of the Croſs of Chriſt; and make ſuch an Oppreſſor feel, that <hi>his end is Deſtruction, becauſe his Glory is in his Shame.</hi>
+                  <note place="margin">Phil. 3.19.</note>
+               </p>
+               <p>The Na<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of Gods given to Sovereign Princes may import, th<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> they are unaccountable to their People. And yet w<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>nd the Supream Majeſty of Heaven and Earth, w<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> receives not his Crown from another, does render <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Account of himſelf to us:<note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> 18 25</note> 
+                  <hi>Hear, O Houſe of</hi> Iſrael, <hi>Is not my way equal? Are not your ways unequal?</hi> He does in a manner ſet his People on the Seat of Ju<g ref="char:EOLhyphen"/>dicature,
+<pb n="15" facs="tcp:100622:13"/> and place himſelf at the Bar, intreating them to give their Judgment upon his Adminiſtration.<note place="margin">Iſa. 5.3,4.</note> 
+                  <hi>And now, O Inhabitants of</hi> Jeruſalem, <hi>and men of</hi> Judah, <hi>judge, I pray you, betwixt me and my Vineyard: what could have been done more to my Vineyard that I have not done in it?</hi> In ſuch a manner as this Princes may be ſaid to be accountable to their People. But it would be very falſe reaſoning from hence to conclude, That becauſe God is pleaſed in ſuch a manner to ſubmit his Sovereign Adminiſtrations to the Judgment of Men, (and Men will in the like manner judge of the Actions of Princes) that therefore a People may aſſume to themſelves a Judicial Power over their Sovereign Lord. Againſt an Unrighteous and Illegal Proceeding of this kind the whole Nation enters its ſolemn, anniverſary Proteſt this day, acknowledging with Shame and De<g ref="char:EOLhyphen"/>teſtation, that the Sentence then executed upon our lawful and rightful Sovereign Lord King <hi>Charles</hi> the Firſt, to have been a notorious and crying piece of In<g ref="char:EOLhyphen"/>juſtice. Indeed, the Nature of the thing demonſtrates at the firſt View, the Abſurdity of ſuch a Proceeding; nothing being more ridiculous, than that a Prince, in whom 'tis confeſs'd by all, the whole Executive Power of the Law is lodg'd, ſhould become legally accounta<g ref="char:EOLhyphen"/>ble to his Subjects, and anſwerable to that Juſtice, which he alone has the right of adminiſtring.</p>
+               <p>But yet it is not neceſſary to carry this Notion ſo far, as to take all right of Self-preſervation from Subjects, and to put their Lives and their Eſtates, their Wives and their Children, under the lawleſs Power of every Prince, who thinks fit to degenerate into a Tyrant, and to oblige Men to ſit quietly, and to ſee the Laws, the Religion, and the Liberties of their Country over<g ref="char:EOLhyphen"/>turn'd,
+<pb n="16" facs="tcp:100622:14"/> and themſelves and their Poſterity brought into Slavery. But even in ſuch a caſe as this there can be no Legal Juriſdiction pretended to: No Judicature re<g ref="char:EOLhyphen"/>mains to judge of the Prince's Actions. Indeed, the Pretence of the High Court of Juſtice to judge of their King, was never own'd by the Body of the People. 'Twas an upſtart monſtrous Opinion, hatch'd by the heat of War: And as it was very abſurd and mon<g ref="char:EOLhyphen"/>ſtrous, ſo it was but an <gap reason="foreign" resp="#OXF" extent="1 word">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, an Inſect of a Days Duration; and is now diſown'd by all ſorts of People amongſt us; the whole Body of the Nation being af<g ref="char:EOLhyphen"/>fectionately diſpoſed to Monarchy, and convinc'd of the utter Impoſſibility of ſetting up any other Form of Government amongſt us. And if there be a Man left that has other Thoughts (as ſuch a Viſionary there may be) 'tis well for us that he ſtands alone, that we are ſure he can have no ſenſible Man of his ſide; becauſe no ſenſible Man can join in a Deſign againſt the Geni<g ref="char:EOLhyphen"/>us of the People, againſt the Laws and Cuſtoms, a<g ref="char:EOLhyphen"/>gainſt the Liberty and Property of the Nation, all which are founded upon, and united to the true anci<g ref="char:EOLhyphen"/>ent legal Monarchy of this Kingdom.</p>
+               <p>And it ought to be a Comfort to us all, when we ſee that Body of Men, who in ſome Church matters unhappily diſſent from us, yet heartily joining with us to pay a juſt Deference, and dutiful reſpect to that Man, whom God hath raiſed up to be the nurſing Father of his Church amongſt us; who by his eſpecial Provi<g ref="char:EOLhyphen"/>dence, and by the univerſal Conſent of the Nation, is Rightfully poſſeſſed of the Throne of theſe Realms, who, as a great Captain, defends us from the Deſtroy<g ref="char:EOLhyphen"/>er abroad; and as a Judge, ſecures us againſt the Sons of Violence at home; who like the good Shepherd our
+<pb n="17" facs="tcp:100622:14"/> Saviour mentions,<note place="margin">Joh. 10.11</note> is always <hi>ready to lay down his Life for his Flock;</hi> and thereby alſo ſhews himſelf as a God amongſt us. May Almighty God preſerve him long to be a Bleſſing to us, and ſecure his Perſon in the midſt of thoſe Dangers, to which he is contented to expoſe himſelf for our ſakes, and for the common Liberty of <hi>Europe.</hi> And ſince the beſt and braveſt of Princes muſt at laſt die, may it be many, very many Years hence, before this Nation may have cauſe to take up the Lamentation of the Prophet, and bewail, that the <hi>Crown is fallen from our Head.</hi>
+               </p>
+            </div>
+            <div type="section">
+               <p>II. The Second Conſideration which aroſe from the Text, was this: <hi>viz.</hi> In the day of our Lamentation we ſhould lay to Heart thoſe Sins which brought Gods Judgment upon us, in order to prevent the like for the future. <hi>Wo to us, that we have ſinned.</hi>
+               </p>
+               <p>Although there be no Evil of any ſort in a Land, which is not a Moral Cauſe of bringing it under Gods Viſitation; yet there are ſome Sins, which are the Na<g ref="char:EOLhyphen"/>tural and Specifick Cauſes of their reſpective Puniſh<g ref="char:EOLhyphen"/>ments. Thus Exceſs brings Diſeaſes, Pride begets Con<g ref="char:EOLhyphen"/>tempt, Idleneſs Poverty. And the proper Enquiry of this Day is after thoſe ſins, which by their own par<g ref="char:EOLhyphen"/>ticular Energy occaſion the loſs of a good Prince, and thereby bring Affliction upon a People; which I take chiefly to be theſe two:
+<list>
+                     <item>I. Flattery. And,</item>
+                     <item>II. Faction.</item>
+                  </list>
+               </p>
+               <p n="1">1. <hi>Flattery</hi> was the Engine Satan firſt contriv'd to ſe<g ref="char:EOLhyphen"/>duce and ruine the Parents of Mankind. He told them,
+<pb n="18" facs="tcp:100622:15"/> that ſome Prerogatives were then wanting to fill up that great Character God had impreſſed upon them; which muſt be attain'd, though againſt Law, that they might do themſelves Right: For though the Law forbad them to eat of the <hi>Tree of Knowledge,</hi> yet it muſt be done; and then <hi>your Eyes ſhall be opened, and ye ſhall be as Gods,</hi>
+                  <note place="margin">Gen. 3.5.</note> ſaid the Flatterer. And how the Crown is here<g ref="char:EOLhyphen"/>by ſallen from our Head, what Woes and Lamentati<g ref="char:EOLhyphen"/>ons have ariſen from hence, their whole Poſterity both feel and ſee.</p>
+               <p>And has not the ſame deteſtable Sin of Flattery drawn Princes to aſpire at ſuch an Abſolute and Arbitra<g ref="char:EOLhyphen"/>ry Power, as was not only beyond, but inconſiſtent with that juſt Prerogative which God's Providence had inveſted them with? God knows how great a Share in the Calamity which we lament this day, this Sin had. An entire Subjection of all we had to Deſpotick Power, was call'd Apoſtolical Obedience; and that ſpecious Name was made uſe of as a Bait to draw the Prince into a Separate Intereſt from his People, which was indeed to divide him from himſelf. And we in our days have ſeen the ſame Engine at work, and are ſadly ſenſible of the unhappy Conſequences; the Notion of Paſſive Obedience having prov'd in a manner as fatal to thoſe who have hearkned to it, as that of Apoſtolical Obedience formerly did.</p>
+               <p>Liberty gives the true Reliſh to all the Comfotrs of Life: without it, though a Man may poſſeſs much, he can enjoy nothing; to preſerve it is the true Prerogative of a Prince. To defend the Liberty of a Nation when it is invaded, is the moſt Glorious thing upon Earth. And he that is ſuch a Deliverer, has a Name above all other Titles: And who would change this Style for that of
+<pb n="19" facs="tcp:100622:15"/> Conqueror? Which is the new Diſguiſe Flattery has put on.</p>
+               <p>All Flattery carries with it a Tacit Affront to the weakneſs of that Perſon to whom it is addreſs'd. But this is ſo groſs, that it Affronts the common Senſe of Mankind, and therefore if directed to a particular Per<g ref="char:EOLhyphen"/>ſon, preſumes the laſt degree of weakneſs. You may as well be perſwaded that Bread is Fleſh, as that the Deliverance of a Nation is a Conqueſt of it.</p>
+               <p>For, (1.) Does not a Deliverance come from the Mercy, a Conqueſt from the Judgment of God? (2.) A Deliverance is wrought out with the Concur<g ref="char:EOLhyphen"/>rence of a People; a Conqueſt is gotten againſt a re<g ref="char:EOLhyphen"/>ſiſting Nation. (3.) The end of a Deliverance is Li<g ref="char:EOLhyphen"/>berty, of a Conqueſt Slavery. (4.) To deliver an Oppreſſed People is Heroical, to Conquer without pro<g ref="char:EOLhyphen"/>vocation is Brutal.</p>
+               <p n="2">2. The ſecond Evil Inſtrument which is apt to draw down God's Viſitation upon a People is Faction; by which I mean a narrow, ſelf-intereſted Spirit in thoſe who would engroſs to themſelves all the Favours of the Prince, and Advantages of the Government, in bart to all others, though as Faithful to their Soveraign, as Serviceable to his Government, and as Uſeful to the whole Community as themſelves. Such a Faction as this firſt diſcourages, then provokes, and at laſt en<g ref="char:EOLhyphen"/>rages the reſt of the Society. Where ſuch a Spirit as this is ſuffer'd, Manaſſeh <hi>will be against</hi> Ephraim,<note place="margin">Iſa. 9.21.</note> 
+                  <hi>and</hi> Ephraim <hi>against</hi> Manaſſeh, <hi>and both together ſhall be against</hi> Judah.</p>
+               <pb n="20" facs="tcp:100622:16"/>
+               <p>I grant it abſolutely neceſſary that every Govern<g ref="char:EOLhyphen"/>ment ſhould diſtinguiſh the Perſons to whoſe Hands they commit the Adminiſtration of Power; the <hi>Iſrae<g ref="char:EOLhyphen"/>lites</hi> had no reaſon to entruſt themſelves to the <hi>Phi<g ref="char:EOLhyphen"/>liſtines,</hi> becauſe they own'd the Right of their old diſ<g ref="char:EOLhyphen"/>poſſeſs'd King; and in this Confidence, as well as that of his great ſtrength <hi>Goliah</hi> might defie <hi>Saul</hi> and his Hoſt.<note place="margin">2 Sam 19.43.</note> But when the Men of <hi>Iſrael</hi> ſaid, <hi>We have more right in</hi> David <hi>than</hi> Judah; no wonder that ſoon after we read, that <hi>The words of the men of</hi> Judah <hi>were fiercer than the words of the men of</hi> Iſrael. Nor was it ſtrange what follow'd,<note place="margin">2 Sam. 20.1,2.</note> when Sheba <hi>the Son of</hi> Bichri <hi>blew a Trumpet, ſaying, We have no part in</hi> David, <hi>neither have we inheritance in the Son of</hi> Jeſſe, <hi>every man to his Tents,</hi> O Iſrael. Here began that Fatal Faction which rent <hi>Iſrael</hi> from <hi>Judah;</hi> and for many Years after oc<g ref="char:EOLhyphen"/>caſion'd Unnatural Wars between 'em, till at laſt it brought on the Captivity of both.</p>
+               <p>Beſides this there is another kind of Faction which manifeſts it ſelf (to uſe St. <hi>Paul</hi>'s words) in <hi>Envy, ſtrife,</hi>
+                  <note place="margin">1. Tim. 6.4.</note> 
+                  <hi>railings, evil ſurmiſings, and perverſe diſpu<g ref="char:EOLhyphen"/>tings;</hi> whereby it falls out that an ill Conſtruction ſhall be put upon thoſe Actions which in their natural tendency are Innocent; an ill turn ſhall be given to a well-meant deſign; and if there ſhall be any ſlip, any real failure in the Adminiſtration, that ſhall be magni<g ref="char:EOLhyphen"/>fy'd by unjuſt Aggravations. No allowance is made for the Difficulties under which Princes labour, in Uni<g ref="char:EOLhyphen"/>ting Men of different Parties, different Principles, and different Intereſts, to contribute to the common Pre<g ref="char:EOLhyphen"/>ſervation: But Men ſit down, and form Ideas to them<g ref="char:EOLhyphen"/>ſelves, which their Imaginations repreſent to them as perfect; and ſuch as which all the World muſt con<g ref="char:EOLhyphen"/>cur
+<pb n="21" facs="tcp:100622:16"/> in at the firſt propoſing; whereas when any one part of theſe Notions comes to be put in Execution, if it be not utterly impracticable, yet the difficulties are next to being inſuperable, and then the Prince is ſaid to be weak, and knows not how to Govern; or he is Negligent, and delivers himſelf over to Pleaſure; or he is Arbitrary in his Notions, and Affects Abſolute Power, and all this without a due regard to the Cir<g ref="char:EOLhyphen"/>cumſtances of the Times, and to the Neceſſity of Af<g ref="char:EOLhyphen"/>fairs; which perhaps if duly and equally weigh'd would not only Excuſe the Prince, but would Merit the Thanks and Praiſe of thoſe Men who are moſt for<g ref="char:EOLhyphen"/>ward to condemn, without conſidering how much the Government is weaken'd by theſe Murmurings, and the Honour and Reputation of it broken.</p>
+               <p>Such Murmurings as theſe bewilder'd the <hi>Iſraelites</hi> for Forty Years together, and delay'd their acceſs to the Land of <hi>Canaan.</hi> 'Twas this made the Govern<g ref="char:EOLhyphen"/>ment lye ſo heavy upon <hi>Moſes.</hi> The Burden which their frequent, and unneceſſary Complaints laid upon their Prince was as heavy as what they had before born in <hi>Egypt;</hi> and had been inſupportable by any other than the Meekeſt Man upon Earth. He was but For<g ref="char:EOLhyphen"/>ty days abſent from them upon the Mount, and there too his Buſineſs was theirs, and was concern'd only in their behalf; but behold the Impatience of the People who <hi>Gathered themſelves together unto</hi> Aaron,<note place="margin">Exod. 32.1.</note> 
+                  <hi>and ſaid unto him, <g ref="char:V">Ʋ</g>p make us Gods which ſhall go before us, for as for this</hi> Moſes <hi>who brought us up out of the Land of</hi> Egypt, <hi>we know not what is become of him.</hi> Upon this Moſes<hi>'s anger waxed hot,</hi>
+                  <note place="margin">ver. 9.</note> 
+                  <hi>ſo that he caſt the Tables of the Law out of his Hand, and brake them beneath the Mount;</hi> and at laſt call'd out the Children of <hi>Levi,</hi>
+                  <pb n="22" facs="tcp:100622:17"/> giving them Orders to fall upon the Murmurers; which were executed by the Slaughter of Three Thou<g ref="char:EOLhyphen"/>ſand Men.<note place="margin">ver. 27, 28.</note>
+               </p>
+               <p>No doubt but the unhappy <hi>Iſraelites</hi> of that Gene<g ref="char:EOLhyphen"/>ration ſaw their Errour, but 'twas then too late; the Fact was already committed which their Poſterity to this day lament.</p>
+               <p>How far the Misfortunes of the Kingdom which we lament this day were owing to this Diſcontented Tem<g ref="char:EOLhyphen"/>per may be matter for your Reflection. Some unhap<g ref="char:EOLhyphen"/>py Occaſions were given to complain, nay, even to grow importunate: But little did the Perſons who be<g ref="char:EOLhyphen"/>gan thoſe Complaints think what would be the end of thoſe things, how far Diſputes, and Heats, and Tu<g ref="char:EOLhyphen"/>mults, and War, would carry them. Little did they foreſee the Cruel and Inexcuſeable Sentence and Execu<g ref="char:EOLhyphen"/>tion, which is the Occaſion of this Aſſembly. If they had once thought of ſuch a thing, if they could have had a proſpect of what has follow'd, how would they have deteſted even what was moſt innocently, and moſt excuſeably done. And this may be ſufficient Cau<g ref="char:EOLhyphen"/>tion for the future how we give way to any unreaſon<g ref="char:EOLhyphen"/>able Murmurings, becauſe we know not (as St. <hi>James</hi> ſpeaks) <hi>how great a matter a little fire kindleth.</hi>
+                  <note place="margin">James 3.5.</note>
+               </p>
+               <p>Having now endeavour'd to find out thoſe Diſtem<g ref="char:EOLhyphen"/>pers which have occaſion'd the Ruin of Princes, and Woes of People, I crave leave by way of Application to recommend one Remedy which St. <hi>Paul</hi> has in theſe Caſes preſcrib'd; not doubting but that it will prove a certain Cure;<note place="margin">1 Cor.10.24.</note> 'tis this, <hi>Let no man ſeek his own, but every man anothers wealth.</hi> That is, Let no Man pur<g ref="char:EOLhyphen"/>ſue his own, in barr to another's Intereſt; or, let no Party of Men appropriate a Common Intereſt to them<g ref="char:EOLhyphen"/>ſelves;
+<pb n="23" facs="tcp:100622:17"/> the reaſon is, becauſe we are all Members of the ſame Body, uſeful to the whole, and needful to each other;<note place="margin">1 Cor. 12.21.</note> ſo that if <hi>the Eye cannot ſay to the Hand I have no need of thee, nor again, the Head to the Feet, I have no need of you;</hi>
+                  <note place="margin">ver. 26.</note> 'tis but juſt that <hi>there ſhould be no Schiſm in the Body, but that the Members ſhould have the ſame care one for another.</hi>
+               </p>
+               <p>
+                  <hi>Charity which envieth not, which ſeeketh not her own,</hi>
+                  <note place="margin">1 Cor. 13.4,5.</note> as it is the Bond of Peace which joins all the Members of Chriſt's Myſtical Body together, ſo is it the only cement, and ſtrength of all Civil Societies; when <hi>Iſaiah</hi> foretold the Triumphant ſtate of <hi>Iſrael,</hi> he lays the Foundation of their future Grandeur in their Mu<g ref="char:EOLhyphen"/>tual Charity. <hi>The envy alſo of</hi> Ephraim <hi>ſhall depart,</hi>
+                  <note place="margin">Iſa. 3.13.</note> 
+                  <hi>and the Adverſaries of</hi> Judah <hi>ſhall be cut off.</hi> Ephraim <hi>ſhall not envy</hi> Judah, <hi>and</hi> Judah <hi>ſhall not vex</hi> Ephraim.</p>
+               <p>Where this Spirit of Charity rules, as there could be no Faction in the State, ſo would there be no Flattery in the Court. Of old the higheſt Compliments of Loyalty were form'd from the deepeſt Malice, wit<g ref="char:EOLhyphen"/>neſs the Addreſs of the Preſidents, Governours, Princes, Counſellors, and Captains of <hi>Perſia,</hi> to <hi>Darius</hi> their King, importing,<note place="margin">Dan. 6.6, <hi>&amp;c.</hi>
+                  </note> That <hi>whoſoever ſhall ask a Petition of any God or Man for thirty days, ſave of thee, O King, ſhall be caſt into the Den of Lions:</hi> And whence aroſe all this Flattery, but from the prepenſe Malice they bare to <hi>Daniel, Against whom they could find no occaſion or fault concerning the Kingdom.</hi>
+                  <note place="margin">ver. 4.</note>
+               </p>
+               <p>And as Charity obliges the Members in particular to ſeek each other's good, ſo it conſtrains them all to<g ref="char:EOLhyphen"/>gether to preſerve their Head. <hi>From which all the Body by Joynts and Bands has nouriſhment miniſter'd,</hi>
+                  <note place="margin">Col. 2.19.</note> 
+                  <hi>and knit together, increaſeth with the increaſe of God.</hi>
+                  <pb n="24" facs="tcp:100622:18"/> A good King is ſuch a Head to his People; ſo that they will alſo find their Intereſt inſeparable from his. Such a one is the Life and Soul of the State be Governs. To Rebel againſt him is to Sin againſt our own Soul; to take from him any of his Rights and Prerogatives is for Children to Rob their Father of that Fund by which he maintains his Family; for an Army to Mutiny a<g ref="char:EOLhyphen"/>gainſt thoſe Orders by which their General ſecures them againſt the Enemy; or to corrupt that Judge who maintains us in our Rights; to withdraw Alle<g ref="char:EOLhyphen"/>giance from ſuch a Soveraign, is for Sheep to ſtray from their Shepherd, for a Man to ſtop the Breath of his own Noſtrils, or to forſake his God, whoſe great<g ref="char:EOLhyphen"/>eſt Glory is to do him the moſt important Good.</p>
+            </div>
+            <closer>To the King Eternal, Immortal, Inviſible, the only Wiſe God, be Honour and Glory for ever and ever. <hi>Amen.</hi>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
